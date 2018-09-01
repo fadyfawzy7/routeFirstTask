@@ -14,16 +14,24 @@ h3 {
   margin-top: 250px;
 }
 
-#third-member
-{
-	background-color: #326F6D !important;
-	color: #F3EADA !important;
+#third-member {
+  background-color: #326f6d !important;
+  color: #f3eada !important;
 }
-.ayah
-{
-	font-family: 'Montserrat', sans-serif;
-	font-weight: 700;
-	margin: 0;
-	padding: 20 10px;
+.ayah {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  margin: 0;
+  padding: 20 10px;
+}
 
+#fourthMember h3 {
+  letter-spacing: 10px;
+}
+#fourthMember h2 {
+  color: #e6f4f1;
+}
+
+#fourthMember h3 {
+  color: #e6f4f1;
 }
