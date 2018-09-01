@@ -1,0 +1,15 @@
+#home {
+  height: 100vh;
+}
+h1 {
+  font-family: "Monoton", cursive;
+  padding: 300px 0;
+}
+#firstMember h2 {
+  font-family: "Orbitron", sans-serif;
+}
+
+#firstMember h3 {
+  font-family: "Bangers", cursive;
+  margin-top: 250px;
+}
